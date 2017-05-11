@@ -1,7 +1,6 @@
 ---
 title: Latex语法
 layout: post
-author: Suuuch
 category: MathJax
 tags:
 - MathJax

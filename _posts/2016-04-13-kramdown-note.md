@@ -2,7 +2,6 @@
 layout: post
 title: "Kramdown学习笔记"
 data: 2016-04-13
-author: Suuuch
 categories: note
 tags:
 - bumbling

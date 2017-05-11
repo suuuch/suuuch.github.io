@@ -2,7 +2,6 @@
 title: 检查IP是否存在发送邮件提醒
 layout: post
 date:   2015-12-02 13:31:01 +0800
-author: Suuuch
 category: Python
 tags:
 - python

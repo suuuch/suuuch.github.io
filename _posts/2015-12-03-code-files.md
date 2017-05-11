@@ -1,7 +1,6 @@
 ---
 title: 代码存档：Python读取路径下所有文件，文件夹
 layout: post
-author: Suuuch
 category: Python
 tags:
 - python

@@ -1,7 +1,6 @@
 ---
 title: 机器学习中的kNN近邻算法
 layout: post
-author: Suuuch
 category: Machine Learing
 tags:
 - marchine learing

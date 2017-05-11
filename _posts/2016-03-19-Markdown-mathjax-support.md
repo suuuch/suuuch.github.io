@@ -1,7 +1,6 @@
 ---
 title: 在Markdown添加MathJax以支持数学公式
 layout: post
-author: Suuuch
 category: MathJax
 tags:
 - MarkDown
